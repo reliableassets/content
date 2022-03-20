@@ -3,6 +3,10 @@
 ## Goal
 > Implement enterprise asset management system that will up-tap maintenance cost saving opportunities while improving service to its customers
 
+- avoid unscheduled downtime
+- improve first-time fix rate 
+- reduce safety incidents
+
 ## How
 - Building reliability of machinety capability
 - Driving maintenance productivity
@@ -19,3 +23,6 @@
 - Measuring the results
 - Tracking energy
 
+
+<hr>
+Predictive maintenance
