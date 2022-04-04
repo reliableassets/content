@@ -1,1 +1,3 @@
-[Organization setup](organization-setup.md)
+
+* [Home](README.md)
+* [Organization setup](features/organization-setup.md)
