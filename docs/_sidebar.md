@@ -1,3 +1,4 @@
 
-* [Home](/)
-* [Data model](datamodel.md "The underlying data model for the solution")
+* [Home](README.md)
+* [Organization setup](features/organization-setup.md)
+* [notes](notes/datamodel.md)

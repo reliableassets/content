@@ -1,8 +1,4 @@
 # Organization
-Company
-- Name
-- _IndustryId_
-
 BusinessUnit
 - _CompanyId_
 - Name
