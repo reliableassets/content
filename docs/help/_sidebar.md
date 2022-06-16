@@ -1,1 +1,2 @@
-* [Item as sparepart](item_as_sparepart.md)
+* [Home](README.md)
+* [Item as sparepart](help/item_as_sparepart.md)
