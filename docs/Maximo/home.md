@@ -12,3 +12,7 @@
 
 ## Inventory module
 ![Invenstory module](./inventory-module.png)
+
+## Purchasing module
+![Purchasing module](./purchase-module.png)
+
