@@ -1,4 +1,6 @@
-### Item as spare part
+# Items
+
+## Item as spare part
 
 When an item is marked as  ‘Spare part’, when issuing that item to an asset, it will be added as a sparepart of the asset.
 
