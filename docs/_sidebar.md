@@ -2,3 +2,4 @@
 * [Home](README.md)
 * [Organization setup](features/organization-setup.md)
 * [notes](notes/datamodel.md)
+* [Help](item_as_sparepart.md)
