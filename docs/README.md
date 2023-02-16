@@ -1,28 +1,24 @@
-# Manufacturing excellence
+# Reliable.Assets
 
-## Goal
-> Implement enterprise asset management system that will up-tap maintenance cost saving opportunities while improving service to its customers
+**Reliable.Assets** is a single platform to intelligently manage and monitor assets, predict maintenance and ensure reliability.
 
-- avoid unscheduled downtime
-- improve first-time fix rate 
-- reduce safety incidents
+> **Goal**: Help organizations realize asset value and achieve operational excellence.
 
 ## How
-- Building reliability of machinety capability
+
+- Building reliability of machine capability
 - Driving maintenance productivity
 - Leveraging parts inventory and procurement opportunities
-- TRacking energy usage for reat time evaluation
+- Tracking energy usage for real time evaluation.
 
-### Building equipment reliability
-- Building equipment hierarchy
-- Reviewing daily performance results
-- Understanding preventive work requirements
-- Building history of work an parts
-- Utilizing standard measurements
-- Adjusting tasking based on actual performance
-- Measuring the results
-- Tracking energy
+## Overview
 
-
-<hr>
-Predictive maintenance
+| Acquire                  | Manage                                                   | Maintain               | Retire    |
+| :----------------------- | :------------------------------------------------------- | :--------------------- | :-------- |
+| Acquire                  | [Functional locations](features/locations-and-assets.md) | Breakdown maintenance  | Dispose   |
+| Capitalize               | Multi-level asset structure                              | Preventive maintenance | Reporting |
+| Transfer, revalue, split | Asset register                                           | Analytics and KPIs     |
+| Depreciate               | Spare parts control                                      | Maintenance checklist  |
+|                          | Maintenance schedules                                    | Fault management       |
+|                          |                                                          | Schedule board         |
+|                          |                                                          | Asset history          |
