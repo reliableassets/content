@@ -1,7 +1,5 @@
 # Reliable.Assets
 
-**Reliable.Assets** is a single platform to intelligently manage and monitor assets, predict maintenance and ensure reliability.
-
 > **Goal**: Help organizations realize asset value and achieve operational excellence.
 
 ## How
