@@ -1,6 +1,6 @@
 - [Home](README.md "Reliable.Assets")
-- [Locations and assets](features/locations-and-assets.md)
 - [Organization setup](features/organization-setup.md)
-- [Inventory](features/inventory-module.md)
+- [Asset management](features/asset-management/home.md)
+- [Inventory management](features/inventory-module.md)
 - [notes](notes/datamodel.md)
 - [Help](help/items.md)
