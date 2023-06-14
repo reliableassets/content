@@ -1,14 +1,14 @@
 - Solutions
+  - [Government](cover.md)
   - [Manufacturing](quickstart.md)
   - [Fleet management](more-pages.md)
   - [Facility management](custom-navbar.md)
   - [Automotive](cover.md)
-  - [Government](cover.md)
   - [Healthcare](cover.md)
 
 - Product
-  - [Features](quickstart.md)
-  - [FAQ](more-pages.md)
+  - [Modules](get-started.md)
+  - [FAQ](faq.md)
 
 - Company
   - [About us](quickstart.md)
