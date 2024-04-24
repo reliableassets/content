@@ -4,4 +4,5 @@
 - [Administration](features/administration/home.md)
 - [Asset management](features/asset-management/home.md)
 - [Inventory management](features/inventory-management/home.md)
+- [website](website/home.md)
 - [Glossary](help/items.md)
